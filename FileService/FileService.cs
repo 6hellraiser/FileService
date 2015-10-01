@@ -49,6 +49,11 @@ namespace FileService
 
         protected override void OnStart(string[] args)
         {
+            if (!Directory.Exists(path))
+            {
+                DirectoryInfo di = Directory.CreateDirectory(path);
+            }
+            System.Threading.Thread.Sleep(500);
             _backend = new Backend.Backend(this.ReceiveFile);
             FileSystemWatcher watcher = new FileSystemWatcher(path, "*.txt");
             watcher.Created += new FileSystemEventHandler(OnCreated);
