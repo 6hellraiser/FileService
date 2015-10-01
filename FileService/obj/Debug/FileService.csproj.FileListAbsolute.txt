@@ -1,0 +1,10 @@
+E:\Master_1\Relex\FileService\FileService\bin\Debug\FileService.exe.config
+E:\Master_1\Relex\FileService\FileService\bin\Debug\FileService.exe
+E:\Master_1\Relex\FileService\FileService\bin\Debug\FileService.pdb
+E:\Master_1\Relex\FileService\FileService\bin\Debug\Backend.dll
+E:\Master_1\Relex\FileService\FileService\bin\Debug\Backend.pdb
+E:\Master_1\Relex\FileService\FileService\obj\Debug\FileService.csprojResolveAssemblyReference.cache
+E:\Master_1\Relex\FileService\FileService\obj\Debug\FileService.ProjectInstaller.resources
+E:\Master_1\Relex\FileService\FileService\obj\Debug\FileService.csproj.GenerateResource.Cache
+E:\Master_1\Relex\FileService\FileService\obj\Debug\FileService.exe
+E:\Master_1\Relex\FileService\FileService\obj\Debug\FileService.pdb

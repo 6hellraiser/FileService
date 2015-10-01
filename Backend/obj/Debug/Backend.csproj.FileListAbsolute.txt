@@ -1,0 +1,5 @@
+E:\Master_1\Relex\FileService\Backend\bin\Debug\Backend.dll
+E:\Master_1\Relex\FileService\Backend\bin\Debug\Backend.pdb
+E:\Master_1\Relex\FileService\Backend\obj\Debug\Backend.csprojResolveAssemblyReference.cache
+E:\Master_1\Relex\FileService\Backend\obj\Debug\Backend.dll
+E:\Master_1\Relex\FileService\Backend\obj\Debug\Backend.pdb
